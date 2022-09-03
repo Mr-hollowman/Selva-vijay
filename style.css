@@ -1,0 +1,22 @@
+h1
+{
+      text-align: center;
+      border:2px solid blue;
+      background-color: bisque;
+      font-size:30px;
+      
+}
+
+p
+{ 
+      text-align: center;
+      border:2px solid blue;
+      background-color: bisque;
+      font-size:30px;
+      
+}
+table,th,td
+{
+      border-collapse: collapse;
+      border-width: 5px solid;
+}
